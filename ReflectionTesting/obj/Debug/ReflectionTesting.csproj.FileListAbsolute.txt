@@ -1,0 +1,6 @@
+C:\Users\Kempo\RiderProjects\ReflectionTesting\ReflectionTesting\bin\Debug\ReflectionTesting.exe
+C:\Users\Kempo\RiderProjects\ReflectionTesting\ReflectionTesting\bin\Debug\ReflectionTesting.pdb
+C:\Users\Kempo\RiderProjects\ReflectionTesting\ReflectionTesting\obj\Debug\ReflectionTesting.csprojResolveAssemblyReference.cache
+C:\Users\Kempo\RiderProjects\ReflectionTesting\ReflectionTesting\obj\Debug\ReflectionTesting.csproj.CoreCompileInputs.cache
+C:\Users\Kempo\RiderProjects\ReflectionTesting\ReflectionTesting\obj\Debug\ReflectionTesting.exe
+C:\Users\Kempo\RiderProjects\ReflectionTesting\ReflectionTesting\obj\Debug\ReflectionTesting.pdb
